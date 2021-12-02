@@ -1,0 +1,19 @@
+{
+  "name": "question3_proxy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Victor Lacerda",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^7.0.4",
+    "jest": "^27.3.1",
+    "prettier": "^2.5.0",
+    "pretty-quick": "^3.1.2"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js",
+    "prepare": "husky install"
+  },
+  "dependencies": {}
+}
