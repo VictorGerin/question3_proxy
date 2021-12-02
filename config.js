@@ -1,10 +1,10 @@
 module.exports = {
     // base destination
-    baseDestination: 'ptsv2.com', // required
+    baseDestination: 'stackoverflow.com', // required
     //basePort: 443, // notRequire default 443 https or 80 for http
-    https: false,
+    https: true,
     overideHost: true, //default true, override http header host with baseDestination prop
-
+    // pluginsFolder: './plugins', --Default value
     multpleServe: [
       {
         url:'/page1',
@@ -13,7 +13,7 @@ module.exports = {
       },
       {
         url:'/page2',
-        destination: 'www.ibam-concursos.org.br'
+        destination: 'stackoverflow.com'
       }
     ]
 };
