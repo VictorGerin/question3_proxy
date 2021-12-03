@@ -38,10 +38,6 @@ function startExpress() {
 //Remove todos os plugins
 beforeAll(async () => {
   expressServer = await startExpress()
-
-  proxy.getAllPlugins = () => {
-    return []
-  }
 })
 
 afterAll(() => {
