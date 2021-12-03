@@ -17,8 +17,5 @@
     "test": "cross-env NODE_OPTIONS=--experimental-vm-modules npx jest",
     "start": "node index.js",
     "prepare": "husky install"
-  },
-  "env": {
-    "NODE_OPTIONS": "experimental-vm-modules"
   }
 }
