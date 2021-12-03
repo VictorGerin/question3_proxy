@@ -178,7 +178,7 @@ test("Inject header", (done) => {
     .get("/header")
     .expect(200)
     .end(function (err, res) {
-      if (verifyText(res, err, done, "Ola mundo !")) done();
+      if (verifyText(res, err, done, "Ola mundo!")) done();
     });
 });
 
