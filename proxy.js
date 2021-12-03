@@ -6,23 +6,23 @@
  * passed criteria, adding request logging for security purposes, filtering out specific pieces of response content, or anything else that you think could be useful.
  **/
 
-const http = require("http");
-const https = require("https");
-const getAllPlugins = require("./autoLoadmodule");
+const http = require('http')
+const https = require('https')
+const getAllPlugins = require('./autoLoadmodule')
 
 function processFunctPlugins(pluginsSync, ...data) {
   return new Promise(async (resolve, reject) => {
-    let current = 0;
+    let current = 0
 
     let selNext = async () => {
       if (current >= pluginsSync.length) {
-        resolve();
-        return;
+        resolve()
+        return
       }
 
-      let funcDefault = pluginsSync[current];
+      let funcDefault = pluginsSync[current]
 
-      current += 1;
+      current += 1
 
       let promise = funcDefault(
         selNext,
@@ -30,37 +30,37 @@ function processFunctPlugins(pluginsSync, ...data) {
           reject({
             whoRejected: current - 1,
             whyRejected: whyRejected,
-          });
+          })
         },
-        ...data
-      );
+        ...data,
+      )
       if (promise instanceof Promise) {
-        await promise;
+        await promise
       }
-    };
+    }
 
-    selNext();
-  });
+    selNext()
+  })
 }
 
 function makeProxyCall(context) {
   return new Promise((resolve, reject) => {
     let responseData = {
       headers: [],
-      method: "",
-      url: "",
+      method: '',
+      url: '',
       trailers: [],
       data: Buffer.alloc(0),
-    };
+    }
 
-    let httpModule = context.proxyed.https ? https : http;
+    let httpModule = context.proxyed.https ? https : http
 
     const newReq = httpModule.request(context.proxyed.requestData, (res) => {
-      res.on("data", (d) => {
-        responseData.data = Buffer.concat([responseData.data, d]);
-      });
+      res.on('data', (d) => {
+        responseData.data = Buffer.concat([responseData.data, d])
+      })
 
-      res.on("end", () => {
+      res.on('end', () => {
         resolve({
           headers: res.headers,
           method: res.method,
@@ -68,18 +68,18 @@ function makeProxyCall(context) {
           trailers: res.trailers,
           data: responseData.data,
           statusCode: res.statusCode,
-        });
-      });
-    });
+        })
+      })
+    })
 
-    newReq.on("error", (error) => {
-      reject(error);
-    });
+    newReq.on('error', (error) => {
+      reject(error)
+    })
 
-    newReq.addTrailers(context.client.requestData.trailers);
-    newReq.write(context.client.requestData.data);
-    newReq.end();
-  });
+    newReq.addTrailers(context.client.requestData.trailers)
+    newReq.write(context.client.requestData.data)
+    newReq.end()
+  })
 }
 
 async function processRequest(context, pluginsSync, pluginsAsync) {
@@ -88,48 +88,48 @@ async function processRequest(context, pluginsSync, pluginsAsync) {
     await processFunctPlugins(
       pluginsSync.map((a) => a.before),
       context.proxyed.requestData,
-      context
-    );
+      context,
+    )
   } catch (ex) {
-    console.log(ex.whyRejected);
-    context.hasFail = true;
-    context.whyRejected = ex.whyRejected;
+    console.log(ex.whyRejected)
+    context.hasFail = true
+    context.whyRejected = ex.whyRejected
     //if some plugin gives a erro
     //finish the transaction
     await processFunctPlugins(
       pluginsSync.slice(0, ex.whoRejected + 1).map((a) => a.after),
       context.proxyed.requestData,
       context.client.responseData,
-      context
-    );
-    return context.client.responseData;
+      context,
+    )
+    return context.client.responseData
   }
 
   //Execute all async plugins
   let afters = await Promise.all(
-    pluginsAsync.map((it) => it.plugin(context.proxyed.requestData, context))
-  );
+    pluginsAsync.map((it) => it.plugin(context.proxyed.requestData, context)),
+  )
 
   try {
-    context.client.responseData = await makeProxyCall(context);
+    context.client.responseData = await makeProxyCall(context)
   } catch (ex) {
-    return context.client.responseData;
+    return context.client.responseData
   }
 
   await Promise.all(
     afters.map((it) =>
-      it(context.proxyed.requestData, context.client.responseData, context)
-    )
-  );
+      it(context.proxyed.requestData, context.client.responseData, context),
+    ),
+  )
 
   await processFunctPlugins(
     pluginsSync.reverse().map((a) => a.after),
     context.proxyed.requestData,
     context.client.responseData,
-    context
-  );
+    context,
+  )
 
-  return context.client.responseData;
+  return context.client.responseData
 }
 
 module.exports = {
@@ -142,13 +142,13 @@ module.exports = {
       https: false,
       overideHost: true,
       baseDestination: undefined,
-      pluginsFolder: "./plugins",
+      pluginsFolder: './plugins',
       ...config,
-    });
+    })
 
-    const plugins = module.exports.getAllPlugins(config.pluginsFolder);
-    const pluginsSync = plugins.filter((a) => a.priority);
-    const pluginsAsync = plugins.filter((a) => !a.priority);
+    const plugins = module.exports.getAllPlugins(config.pluginsFolder)
+    const pluginsSync = plugins.filter((a) => a.priority)
+    const pluginsAsync = plugins.filter((a) => !a.priority)
 
     return http.createServer(function (req, res) {
       let context = {
@@ -164,7 +164,7 @@ module.exports = {
           },
           responseData: {
             statusCode: 500,
-            headers: { "content-type": "text/plain" },
+            headers: { 'content-type': 'text/plain' },
             data: Buffer.alloc(0),
             trailers: {},
           },
@@ -177,12 +177,12 @@ module.exports = {
         },
         config: JSON.parse(JSON.stringify(config)),
         hasFail: false,
-      };
+      }
 
-      let requestData = context.client.requestData;
+      let requestData = context.client.requestData
 
       if (config.overideHost)
-        requestData.headers["host"] = config.baseDestination;
+        requestData.headers['host'] = config.baseDestination
 
       context.proxyed.requestData = {
         hostname: config.baseDestination,
@@ -190,33 +190,33 @@ module.exports = {
         path: requestData.url,
         headers: requestData.headers,
         method: requestData.method,
-      };
+      }
 
-      req.on("data", (d) => {
-        requestData.data = Buffer.concat([requestData.data, d]);
-      });
+      req.on('data', (d) => {
+        requestData.data = Buffer.concat([requestData.data, d])
+      })
 
-      req.on("end", async () => {
-        let responseData = {};
+      req.on('end', async () => {
+        let responseData = {}
 
         try {
           responseData = await processRequest(
             context,
             pluginsSync,
-            pluginsAsync
-          );
+            pluginsAsync,
+          )
         } catch (ex) {
-          res.writeHead(500, { "content-type": "text/plain" });
-          res.end();
-          return;
+          res.writeHead(500, { 'content-type': 'text/plain' })
+          res.end()
+          return
         }
 
-        res.writeHead(responseData.statusCode, responseData.headers);
-        res.addTrailers(responseData.trailers);
-        res.write(responseData.data);
-        res.end();
-      });
-    });
+        res.writeHead(responseData.statusCode, responseData.headers)
+        res.addTrailers(responseData.trailers)
+        res.write(responseData.data)
+        res.end()
+      })
+    })
   },
   getAllPlugins: getAllPlugins,
-};
+}
