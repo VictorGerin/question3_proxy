@@ -16,8 +16,6 @@ exports.priority = 10000;
 
 /**
  * 
- * Example of async module function.
- * 
  * before function is executed before the proxy call so this is a good time to
  * verify is the remote ip andress is block by the config list
  * 
@@ -26,12 +24,19 @@ exports.priority = 10000;
  * @param {*} req - Current client.reuqestData
  * @param {*} context - Context of this execution
  */
-exports.before = async (next, fail, req, context) => {
+exports.before = (next, fail, req, context) => {
 
-    //Just a exemple of async call
-    const blockConfig = (await import('../bloklistConfig.js')).default
+
+    blockConfig = context.config.blocklist;
+
+
+    if(!blockConfig) {
+        next();
+        return;
+    }
 
     let remoteAddr = context.client.req.socket.remoteAddress
+
     if(blockConfig.indexOf(remoteAddr) !== -1) {
 
         //if blocked set as fail comunication, and give a reason

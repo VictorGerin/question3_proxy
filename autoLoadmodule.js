@@ -35,6 +35,7 @@ function verifyValidModule(module)
  */
  module.exports = function getAllPlugins(folder) {
     return fs.readdirSync(folder)
+    .filter(a => !a.endsWith('test.js'))
     .map(a => `${folder}/${a}`)
     .map((file) => {
         try {

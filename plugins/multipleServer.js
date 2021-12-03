@@ -13,11 +13,14 @@ exports.plugin = async (req, context) => {
     /**
      * module configs can be stored inside of file config
      */
-    let config = context.config.multpleServe;
+    let config = context.config.multipleServe;
 
+    if(!config) {
+        return () => {};
+    }
 
     //search fo a match
-    let newRedirect = config.filter(a => req.url.startsWith(a.url))
+    let newRedirect = config.filter(a => req.path.startsWith(a.url))
 
     if(newRedirect.length)
     {

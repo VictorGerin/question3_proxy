@@ -1,11 +1,11 @@
 module.exports = {
     // base destination
-    baseDestination: 'stackoverflow.com', // required
+    baseDestination: 'ptsv2.com', // required
     //basePort: 443, // notRequire default 443 https or 80 for http
-    https: true,
+    https: false,
     overideHost: true, //default true, override http header host with baseDestination prop
     // pluginsFolder: './plugins', --Default value
-    multpleServe: [
+    multipleServe: [
       {
         url:'/page1',
         destination: 'ptsv2.com',
@@ -13,7 +13,7 @@ module.exports = {
       },
       {
         url:'/page2',
-        destination: 'stackoverflow.com'
+        destination: 'www.stackoverflow.com'
       }
     ]
 };

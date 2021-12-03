@@ -1,8 +1,9 @@
-const proxy = require("./proxy");
+const {createServer} = require("./proxy");
 const config = require('./config')
 
+
 const main = () => {
-    proxy(config).listen(8080, () => {
+    createServer(config).listen(8080, () => {
         console.log('Server starded')
     })
 }
