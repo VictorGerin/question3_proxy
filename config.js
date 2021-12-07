@@ -5,7 +5,13 @@ module.exports = {
   https: false,
   overideHost: true, //default true, override http header host with baseDestination prop
   // pluginsFolder: './plugins', --Default value
-  multipleServe: [
+  sysPlugins: [
+    'proxy',
+    // 'blockList',
+    'router',
+    // 'auth'
+  ],
+  router: [
     {
       url: '/page1',
       destination: 'ptsv2.com',
@@ -16,4 +22,8 @@ module.exports = {
       destination: 'www.stackoverflow.com',
     },
   ],
+  blocklist: ['::1', '::ffff:127.0.0.1'],
+  lstUsers: {
+    victor: '123456',
+  },
 }

@@ -1,10 +1,11 @@
 const request = require('supertest')
 const proxy = require('./proxy')
-// const config = require("./config");
 const express = require('express')
-var assert = require('assert')
+const logger = require('./logger')
 
+logger.silent = true
 let expressServer
+let config
 
 /**
  * Create a simple express server to be proxyed by the proxy
@@ -35,7 +36,6 @@ function startExpress() {
   })
 }
 
-//Remove todos os plugins
 beforeAll(async () => {
   expressServer = await startExpress()
 })
@@ -44,29 +44,26 @@ afterAll(() => {
   expressServer.close()
 })
 
-afterEach(() => {
-  proxy.getAllPlugins = () => {
-    return []
+beforeEach(() => {
+  config = {
+    baseDestination: '127.0.0.1',
+    basePort: expressServer.address().port,
+    https: false,
+    sysPlugins: ['proxy'],
   }
 })
 
 function verifyText(res, err, done, text) {
   if (err) done(err)
   else if (res.text !== text)
-    done(`Wrong response: expect "${text}" / recived : "${res.text}""`)
+    done(`Wrong response: expect '${text}' / recived : '${res.text}'`)
   else return true
 
   return false
 }
 
 test('Simple Get response ', (done) => {
-  const config = {
-    baseDestination: '127.0.0.1',
-    basePort: expressServer.address().port,
-    https: false,
-  }
-
-  request(proxy.createServer(config))
+  request(proxy.createServer({ config, plugins: [], logger }))
     .get('/')
     .expect(200)
     .end(function (err, res) {
@@ -75,13 +72,7 @@ test('Simple Get response ', (done) => {
 })
 
 test('Simple Post response ', (done) => {
-  const config = {
-    baseDestination: '127.0.0.1',
-    basePort: expressServer.address().port,
-    https: false,
-  }
-
-  request(proxy.createServer(config))
+  request(proxy.createServer({ config, plugins: [], logger }))
     .post('/json')
     .expect(200)
     .end(function (err, res) {
@@ -92,29 +83,17 @@ test('Simple Post response ', (done) => {
     })
 })
 
-test('Sync plugin', (done) => {
-  const config = {
-    baseDestination: '127.0.0.1',
-    basePort: expressServer.address().port,
-    https: false,
-  }
-
-  proxy.getAllPlugins = () => {
-    return [
-      {
-        priority: 1,
-        before: (next, fail, req, context) => {
-          req.method = 'GET'
-          next()
-        },
-        after: (next) => {
-          next()
-        },
+test('plugin', (done) => {
+  let plugins = [
+    {
+      priority: 1,
+      plugin: (req, context, logger) => {
+        req.method = 'GET'
       },
-    ]
-  }
+    },
+  ]
 
-  request(proxy.createServer(config))
+  request(proxy.createServer({ config, plugins, logger }))
     .post('/')
     .expect(200)
     .end(function (err, res) {
@@ -122,127 +101,105 @@ test('Sync plugin', (done) => {
     })
 })
 
-test('Async plugin', (done) => {
-  const config = {
-    baseDestination: '127.0.0.1',
-    basePort: expressServer.address().port,
-    https: false,
-  }
+test('plugin change body', (done) => {
+  const testData = 'Ola mundo!'
 
-  proxy.getAllPlugins = () => {
-    return [
-      {
-        priority: 0,
-        plugin: (req, context) => {
-          req.method = 'GET'
-          return () => {}
-        },
+  let plugins = [
+    {
+      priority: 1,
+      plugin: () => (req, res, context, logger) => {
+        res.data = testData
+        res.headers['content-length'] = res.data.length
       },
-    ]
-  }
+    },
+  ]
 
-  request(proxy.createServer(config))
-    .post('/')
+  request(proxy.createServer({ config, plugins, logger }))
+    .get('/')
     .expect(200)
     .end(function (err, res) {
-      if (verifyText(res, err, done, 'Hello World!')) done()
+      if (verifyText(res, err, done, testData)) done()
     })
 })
 
 test('Inject header', (done) => {
-  const config = {
-    baseDestination: '127.0.0.1',
-    basePort: expressServer.address().port,
-    https: false,
-  }
+  const testData = 'Ola mundo!'
 
-  proxy.getAllPlugins = () => {
-    return [
-      {
-        priority: 0,
-        plugin: (req, context) => {
-          req.headers['teste'] = 'Ola mundo!'
-          return () => {}
-        },
+  let plugins = [
+    {
+      priority: 1,
+      plugin: (req, context, logger) => {
+        req.headers['teste'] = testData
       },
-    ]
-  }
+    },
+  ]
 
-  request(proxy.createServer(config))
+  request(proxy.createServer({ config, plugins, logger }))
     .get('/header')
     .expect(200)
     .end(function (err, res) {
-      if (verifyText(res, err, done, 'Ola mundo!')) done()
+      if (verifyText(res, err, done, testData)) done()
     })
 })
 
 test('Sync plugin order', (done) => {
-  const config = {
-    baseDestination: '127.0.0.1',
-    basePort: expressServer.address().port,
-    https: false,
-  }
+  let plugins = [
+    {
+      priority: 2,
 
-  proxy.getAllPlugins = () => {
-    return [
-      {
-        priority: 2,
+      plugin: (req, context, logger) => {
         //1º to execute
-        before: (next, fail, req, context) => {
-          if (
-            context.before2 ||
-            context.after2 ||
-            context.before1 ||
-            context.after1
-          )
-            fail()
-          context.before2 = true
-          next()
-        },
+        if (
+          context.before2 ||
+          context.after2 ||
+          context.before1 ||
+          context.after1
+        )
+          throw 'Err'
+        context.before2 = true
+
         //4º to execute and last
-        after: (next, fail, req, res, context) => {
+        return () => {
           if (
             !context.before2 ||
             context.after2 ||
             !context.before1 ||
             !context.after1
           )
-            fail()
+            throw 'Err'
           context.after2 = true
-          next()
-        },
+        }
       },
-      {
-        priority: 1,
+    },
+    {
+      priority: 1,
+      plugin: async (req, context, logger) => {
         //2º to execute
-        before: (next, fail, req, context) => {
-          if (
-            !context.before2 ||
-            context.after2 ||
-            context.before1 ||
-            context.after1
-          )
-            fail()
-          context.before1 = true
-          next()
-        },
-        //3º to execute
-        after: (next, fail, req, res, context) => {
+        if (
+          !context.before2 ||
+          context.after2 ||
+          context.before1 ||
+          context.after1
+        )
+          throw 'Err'
+        context.before1 = true
+
+        return async () => {
+          //3º to execute
           if (
             !context.before2 ||
             context.after2 ||
             !context.before1 ||
             context.after1
           )
-            fail()
+            throw 'Err'
           context.after1 = true
-          next()
-        },
+        }
       },
-    ]
-  }
+    },
+  ]
 
-  request(proxy.createServer(config))
+  request(proxy.createServer({ config, plugins, logger }))
     .get('/')
     .expect(200)
     .end(function (err, res) {

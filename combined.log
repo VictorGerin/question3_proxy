@@ -1,0 +1,2022 @@
+{"level":"info","message":"Server starded","service":"user-service"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js","service":"user-service"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js","service":"user-service"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 467.3512 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 828.5822 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 271.243 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 798.5584 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"verbose","message":{"headers":{"host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","method":"GET","path":"/","port":80}}
+{"level":"info","message":"time passed - 265.4762 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"debug","message":"proxy request - {\"hostname\":\"ptsv2.com\",\"port\":80,\"path\":\"/\",\"headers\":{\"user-agent\":\"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320\",\"host\":\"ptsv2.com\"},\"method\":\"GET\"}"}
+{"level":"info","message":"time passed - 264.9481 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"headers":{"host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"proxy request","method":"GET","path":"/","port":80}
+{"level":"info","message":"time passed - 264.6271 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"headers":{"host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"proxy request data","method":"GET","path":"/","port":80}
+{"level":"info","message":"time passed - 802.5482 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"headers":{"host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"proxy request data","method":"GET","path":"/","port":80}
+{"data":{"data":[60,33,68,79,67,84,89,80,69,32,104,116,109,108,62,13,10,60,104,116,109,108,32,108,97,110,103,61,34,101,110,34,62,13,10,32,32,60,104,101,97,100,62,13,10,32,32,32,32,60,109,101,116,97,32,99,104,97,114,115,101,116,61,34,117,116,102,45,56,34,62,13,10,32,32,32,32,60,109,101,116,97,32,104,116,116,112,45,101,113,117,105,118,61,34,88,45,85,65,45,67,111,109,112,97,116,105,98,108,101,34,32,99,111,110,116,101,110,116,61,34,73,69,61,101,100,103,101,34,62,13,10,32,32,32,32,60,109,101,116,97,32,110,97,109,101,61,34,118,105,101,119,112,111,114,116,34,32,99,111,110,116,101,110,116,61,34,119,105,100,116,104,61,100,101,118,105,99,101,45,119,105,100,116,104,44,32,105,110,105,116,105,97,108,45,115,99,97,108,101,61,49,34,62,13,10,32,32,32,32,60,116,105,116,108,101,62,80,84,83,32,45,32,86,50,60,47,116,105,116,108,101,62,13,10,13,10,32,32,32,32,60,108,105,110,107,32,104,114,101,102,61,34,47,115,116,97,116,105,99,47,98,111,111,116,115,116,114,97,112,47,99,115,115,47,98,111,111,116,115,116,114,97,112,46,99,115,115,34,32,114,101,108,61,34,115,116,121,108,101,115,104,101,101,116,34,62,13,10,32,32,32,32,60,108,105,110,107,32,104,114,101,102,61,34,47,115,116,97,116,105,99,47,115,116,121,108,101,46,99,115,115,34,32,114,101,108,61,34,115,116,121,108,101,115,104,101,101,116,34,62,13,10,13,10,32,32,32,32,13,10,32,32,32,32,60,115,99,114,105,112,116,32,97,115,121,110,99,32,115,114,99,61,34,104,116,116,112,115,58,47,47,119,119,119,46,103,111,111,103,108,101,116,97,103,109,97,110,97,103,101,114,46,99,111,109,47,103,116,97,103,47,106,115,63,105,100,61,85,65,45,49,49,53,50,56,49,48,45,52,34,62,60,47,115,99,114,105,112,116,62,13,10,32,32,32,32,60,115,99,114,105,112,116,62,13,10,32,32,32,32,32,32,32,32,119,105,110,100,111,119,46,100,97,116,97,76,97,121,101,114,32,61,32,119,105,110,100,111,119,46,100,97,116,97,76,97,121,101,114,32,124,124,32,91,93,59,13,10,32,32,32,32,32,32,32,32,102,117,110,99,116,105,111,110,32,103,116,97,103,40,41,123,100,97,116,97,76,97,121,101,114,46,112,117,115,104,40,97,114,103,117,109,101,110,116,115,41,59,125,13,10,32,32,32,32,32,32,32,32,103,116,97,103,40,39,106,115,39,44,32,110,101,119,32,68,97,116,101,40,41,41,59,13,10,13,10,32,32,32,32,32,32,32,32,103,116,97,103,40,39,99,111,110,102,105,103,39,44,32,39,85,65,45,49,49,53,50,56,49,48,45,52,39,41,59,13,10,32,32,32,32,60,47,115,99,114,105,112,116,62,13,10,32,32,60,47,104,101,97,100,62,13,10,13,10,32,32,60,98,111,100,121,62,13,10,32,32,32,32,60,100,105,118,32,99,108,97,115,115,61,34,99,111,110,116,97,105,110,101,114,34,62,13,10,32,32,32,32,32,32,32,32,13,10,32,32,32,32,32,32,32,32,60,100,105,118,32,99,108,97,115,115,61,34,114,111,119,34,32,115,116,121,108,101,61,34,98,97,99,107,103,114,111,117,110,100,45,99,111,108,111,114,58,100,97,114,107,103,114,101,121,34,62,13,10,32,32,32,32,32,32,32,32,32,32,32,32,60,100,105,118,32,99,108,97,115,115,61,34,99,111,108,45,120,115,45,49,50,34,62,13,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,104,49,62,80,111,115,116,32,84,101,115,116,32,83,101,114,118,101,114,32,86,50,60,47,104,49,62,13,10,32,32,32,32,32,32,32,32,32,32,32,32,60,47,100,105,118,62,13,10,32,32,32,32,32,32,32,32,60,47,100,105,118,62,13,10,13,10,32,32,32,32,32,32,32,32,13,10,32,32,32,32,32,32,32,32,60,100,105,118,32,99,108,97,115,115,61,34,114,111,119,34,62,13,10,32,32,32,32,32,32,32,32,32,32,32,32,13,10,32,32,32,32,32,32,32,32,32,32,32,32,60,100,105,118,32,99,108,97,115,115,61,34,99,111,108,45,120,115,45,50,34,62,13,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,97,32,104,114,101,102,61,34,47,34,62,60,105,109,103,32,115,114,99,61,34,47,115,116,97,116,105,99,47,84,111,105,108,101,116,76,111,103,111,46,106,112,103,34,32,115,116,121,108,101,61,34,109,97,114,103,105,110,45,116,111,112,58,32,53,112,120,59,109,97,114,103,105,110,45,98,111,116,116,111,109,58,53,112,120,34,32,32,47,62,60,47,97,62,60,98,114,47,62,13,10,60,97,32,104,114,101,102,61,34,47,115,47,119,104,97,116,105,115,116,104,105,115,46,104,116,109,108,34,62,87,104,97,116,32,105,115,32,116,104,105,115,63,60,47,97,62,60,98,114,47,62,13,10,60,97,32,104,114,101,102,61,34,47,115,47,115,111,109,101,114,117,108,101,115,46,104,116,109,108,34,62,83,111,109,101,32,82,117,108,101,115,60,47,97,62,60,98,114,47,62,13,10,60,97,32,104,114,101,102,61,34,47,115,47,104,111,119,105,116,119,111,114,107,115,46,104,116,109,108,34,62,72,111,119,32,105,116,32,119,111,114,107,115,60,47,97,62,60,98,114,47,62,13,10,60,97,32,104,114,101,102,61,34,47,115,47,100,117,109,112,102,105,101,108,100,115,46,104,116,109,108,34,62,87,104,97,116,39,115,32,105,110,32,97,32,100,117,109,112,60,47,97,62,60,98,114,47,62,13,10,60,97,32,104,114,101,102,61,34,47,115,47,99,111,110,116,97,99,116,46,104,116,109,108,34,62,67,111,110,116,97,99,116,60,47,97,62,60,98,114,47,62,13,10,32,32,32,32,32,32,32,32,32,32,32,32,60,47,100,105,118,62,13,10,13,10,32,32,32,32,32,32,32,32,32,32,32,32,60,100,105,118,32,99,108,97,115,115,61,34,99,111,108,45,120,115,45,49,48,34,62,13,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,100,105,118,32,99,108,97,115,115,61,34,114,111,119,34,62,13,10,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,32,60,100,105,118,32,99,108,97,115,115,61,34,99,111,108,45,120,115,45,49,50,34,62,13,10,13,10,32,32,32,32,60,104,49,62,87,101,108,99,111,109,101,32,116,111,32,72,101,110,114,121,39,115,32,80,111,115,116,32,84,101,115,116,32,83,101,114,118,101,114,32,86,50,33,60,47,104,50,62,32,32,32,32,13,10,32,32,32,32,84,104,105,115,32,105,115,32,97,32,115,101,114,118,105,99,101,32,102,111,114,32,100,101,118,101,108,111,112,101,114,115,32,116,101,115,116,105,110,103,32,99,108,105,101,110,116,115,32,116,104,97,116,32,80,79,83,84,32,97,110,100,32,71,69,84,32,116,104,105,110,103,115,32,111,118,101,114,32,72,84,84,80,46,32,32,32,32,13,10,32,32,32,32,60,112,62,13,10,32,32,32,32,32,32,32,32,84,111,32,98,101,103,105,110,44,32,117,115,101,32,116,104,101,32,115,101,97,114,99,104,32,98,101,108,111,119,32,116,111,32,102,105,110,100,32,97,110,32,117,110,99,108,97,105,109,101,100,32,116,111,105,108,101,116,46,32,40,84,111,105,108,101,116,115,32,97,114,101,32,119,104,101,114,101,32,121,111,117,114,32,100,117,109,112,115,32,103,111,41,32,32,32,32,32,32,32,32,13,10,32,32,32,32,60,47,112,62,13,10,32,32,32,32,60,112,62,13,10,32,32,32,32,60,102,111,114,109,62,13,10,32,32,32,32,32,32,32,32,60,105,110,112,117,116,32,116,121,112,101,61,34,116,101,120,116,34,32,105,100,61,34,116,111,105,108,101,116,78,97,109,101,34,47,32,115,105,122,101,61,34,52,48,34,62,13,10,32,32,32,32,32,32,32,32,60,105,110,112,117,116,32,116,121,112,101,61,34,115,117,98,109,105,116,34,32,105,100,61,34,102,105,110,100,84,111,105,108,101,116,34,32,118,97,108,117,101,61,34,76,111,111,107,32,117,112,42,34,32,47,62,60,98,114,47,62,13,10,32,32,32,32,32,32,32,32,60,105,110,112,117,116,32,116,121,112,101,61,34,98,117,116,116,111,110,34,32,105,100,61,34,114,97,110,100,111,109,84,111,105,108,101,116,34,32,118,97,108,117,101,61,34,78,101,119,32,82,97,110,100,111,109,32,84,111,105,108,101,116,34,32,47,62,13,10,32,32,32,32,60,47,102,111,114,109,62,13,10,32,32,32,32,60,47,112,62,13,10,32,32,32,32,60,112,62,13,10,32,32,32,32,32,32,42,65,108,108,32,116,104,105,115,32,102,111,114,109,32,100,111,101,115,32,105,115,32,114,101,100,105,114,101,99,116,32,121,111,117,32,116,111,32,47,116,47,91,115,101,97,114,99,104,32,115,116,114,105,110,103,93,13,10,32,32,32,32,60,47,112,62,13,10,13,10,32,32,32,32,60,112,62,13,10,32,32,32,32,32,32,60,104,51,62,67,79,82,83,32,105,115,32,110,111,119,32,115,117,112,112,111,114,116,101,100,60,47,104,51,62,13,10,32,32,32,32,32,32,91,56,47,54,47,50,48,49,57,93,32,84,104,105,115,32,104,101,97,100,101,114,58,32,34,65,99,99,101,115,115,45,67,111,110,116,114,111,108,45,65,108,108,111,119,45,79,114,105,103,105,110,58,32,42,34,32,105,115,32,110,111,119,32,115,101,116,32,111,110,32,97,108,108,32,114,101,115,112,111,110,115,101,115,46,13,10,32,32,32,32,60,47,112,62,13,10,32,32,32,32,60,112,62,13,10,32,32,32,32,32,32,32,32,60,104,51,62,80,79,83,84,32,43,32,71,69,84,32,116,111,103,101,116,104,101,114,60,47,104,51,62,13,10,32,32,32,32,32,32,32,32,91,53,47,49,52,47,50,48,49,57,93,32,65,32,117,115,101,114,32,112,111,105,110,116,101,100,32,111,117,116,32,116,104,97,116,32,116,104,101,32,98,101,104,97,118,105,111,114,32,119,97,115,32,105,110,99,111,110,115,105,115,116,101,110,116,32,119,104,101,110,32,115,117,98,109,105,116,116,105,110,103,32,97,32,80,79,83,84,32,114,101,113,117,101,115,116,32,119,105,116,104,32,97,32,113,117,101,114,121,32,115,116,114,105,110,103,46,32,13,10,32,32,32,32,32,32,32,32,84,104,105,115,32,105,115,32,97,32,119,101,105,114,100,32,99,97,115,101,32,98,101,99,97,117,115,101,32,60,97,32,104,114,101,102,61,34,104,116,116,112,115,58,47,47,119,119,119,46,119,51,46,111,114,103,47,84,82,47,104,116,109,108,52,47,105,110,116,101,114,97,99,116,47,102,111,114,109,115,46,104,116,109,108,35,115,117,98,109,105,116,45,102,111,114,109,97,116,34,62,116,101,99,104,110,105,99,97,108,108,121,32,71,69,84,32,109,101,97,110,115,32,97,108,108,32,116,104,101,32,118,97,114,105,97,98,108,101,115,32,119,105,108,108,32,98,101,32,105,110,32,116,104,101,32,85,82,76,32,97,110,100,32,80,79,83,84,32,109,101,97,110,115,32,116,104,101,121,32,97,114,101,32,97,108,108,32,105,110,32,116,104,101,32,98,111,100,121,60,47,97,62,13,10,32,32,32,32,32,32,32,32,66,117,116,44,32,119,101,32,115,101,101,32,116,104,105,115,32,97,108,108,32,116,104,101,32,116,105,109,101,32,97,110,100,32,119,104,97,116,32,109,111,115,116,32,102,114,97,109,101,119,111,114,107,115,32,100,111,32,105,115,32,109,101,114,103,101,32,116,104,101,32,112,111,115,116,32,97,110,100,32,103,101,116,32,112,97,114,97,109,101,116,101,114,115,32,105,110,116,111,32,111,110,101,32,111,98,106,101,99,116,44,32,119,104,105,99,104,32,105,115,32,119,104,97,116,32,116,104,105,115,32,115,101,114,118,105,99,101,32,100,111,101,115,46,32,83,111,32,121,111,117,32,119,105,108,108,32,115,101,101,32,98,111,116,104,32,116,111,103,101,116,104,101,114,46,32,73,102,32,121,111,117,32,119,105,115,104,13,10,32,32,32,32,32,32,32,32,116,111,32,118,105,101,119,32,116,104,101,32,112,111,115,116,32,98,111,100,121,32,115,101,112,101,114,97,116,101,108,121,32,102,114,111,109,32,116,104,101,32,103,101,116,32,112,97,114,97,109,101,116,101,114,115,32,121,111,117,32,109,97,121,32,99,111,110,102,105,103,117,114,101,32,116,104,101,32,116,111,105,108,101,116,32,116,111,32,100,117,109,112,32,116,104,101,32,112,111,115,116,32,98,111,100,121,32,102,105,114,115,116,46,32,73,110,32,119,104,105,99,104,32,99,97,115,101,32,116,104,101,32,115,116,114,101,97,109,32,119,105,108,108,32,98,101,32,99,111,110,115,117,109,101,100,32,97,110,100,32,111,110,108,121,32,116,104,101,32,103,101,116,13,10,32,32,32,32,32,32,32,32,112,97,114,97,109,101,116,101,114,115,32,119,105,108,108,32,98,101,32,112,97,114,115,101,100,46,13,10,32,32,32,32,32,32,60,47,112,62,13,10,32,32,32,32,32,32,60,112,62,13,10,32,32,32,32,32,32,32,32,60,104,51,62,70,105,114,115,116,32,117,112,100,97,116,101,58,32,65,110,116,105,45,83,112,97,109,60,47,104,51,62,13,10,32,32,32,32,32,32,32,32,91,55,47,49,51,47,50,48,49,56,93,32,66,101,99,97,117,115,101,32,111,102,32,112,101,111,112,108,101,32,60,97,32,104,114,101,102,61,34,104,116,116,112,115,58,47,47,105,109,103,117,114,46,99,111,109,47,97,47,65,99,49,75,74,89,67,34,62,108,105,107,101,32,116,104,105,115,60,47,97,62,32,73,32,104,97,118,101,32,104,97,100,32,116,111,32,97,100,100,32,108,111,103,105,99,32,116,111,32,100,105,115,97,98,108,101,32,116,111,105,108,101,116,115,32,116,104,97,116,32,114,101,99,101,105,118,101,32,116,111,111,32,109,97,110,121,32,114,101,113,117,101,115,116,115,32,112,101,114,32,109,105,110,117,116,101,46,60,98,114,47,62,13,10,32,32,32,32,32,32,32,32,70,101,101,108,32,102,114,101,101,32,116,111,32,114,101,97,99,104,32,111,117,116,32,116,111,32,109,101,32,105,102,32,121,111,117,32,102,101,101,108,32,121,111,117,114,32,116,111,105,108,101,116,32,104,97,115,32,98,101,101,110,32,98,108,111,99,107,101,100,32,105,110,32,101,114,114,111,114,32,98,101,99,97,117,115,101,32,98,117,103,115,32,97,114,101,32,97,32,116,104,105,110,103,46,13,10,32,32,32,32,32,32,60,47,112,62,13,10,32,32,32,32,32,32,60,112,62,13,10,32,32,32,32,32,32,32,32,60,104,51,62,84,104,105,115,32,115,101,114,118,105,99,101,32,105,115,32,115,117,112,101,114,32,98,101,116,97,46,60,47,104,51,62,13,10,32,32,32,32,32,32,32,32,91,69,97,114,108,121,32,50,48,49,55,93,32,69,120,112,101,99,116,32,98,117,103,115,46,32,71,101,116,32,109,121,32,101,109,97,105,108,32,102,114,111,109,32,116,104,101,32,99,111,110,116,97,99,116,32,112,97,103,101,32,97,110,100,32,116,101,108,108,32,109,101,32,97,98,111,117,116,32,109,121,32,98,117,103,115,46,60,47,104,50,62,13,10,32,32,32,32,32,32,60,47,112,62,13,10,32,32,32,13,10,13,10,60,115,99,114,105,112,116,32,116,121,112,101,61,34,116,101,120,116,47,106,97,118,97,115,99,114,105,112,116,34,62,13,10,32,32,102,117,110,99,116,105,111,110,32,104,97,115,87,104,105,116,101,83,112,97,99,101,40,115,41,32,123,13,10,32,32,32,32,114,101,116,117,114,110,32,47,92,115,47,103,46,116,101,115,116,40,115,41,59,13,10,32,32,125,13,10,13,10,32,32,100,111,99,117,109,101,110,116,46,103,101,116,69,108,101,109,101,110,116,66,121,73,100,40,34,102,105,110,100,84,111,105,108,101,116,34,41,46,111,110,99,108,105,99,107,32,61,32,102,117,110,99,116,105,111,110,40,41,32,123,13,10,32,32,32,32,116,111,105,108,101,116,32,61,32,100,111,99,117,109,101,110,116,46,103,101,116,69,108,101,109,101,110,116,66,121,73,100,40,34,116,111,105,108,101,116,78,97,109,101,34,41,46,118,97,108,117,101,59,13,10,32,32,32,32,105,102,40,104,97,115,87,104,105,116,101,83,112,97,99,101,40,116,111,105,108,101,116,41,41,32,123,13,10,32,32,32,32,32,32,32,32,97,108,101,114,116,40,34,84,111,105,108,101,116,32,109,117,115,116,110,39,116,32,104,97,118,101,32,119,104,105,116,101,115,112,97,99,101,32,105,110,32,116,104,101,32,110,97,109,101,34,41,13,10,32,32,32,32,32,32,32,32,114,101,116,117,114,110,32,102,97,108,115,101,59,13,10,32,32,32,32,125,13,10,32,32,32,32,32,32,13,10,32,32,32,32,105,102,40,33,116,111,105,108,101,116,32,124,124,32,116,111,105,108,101,116,46,108,101,110,32,60,32,49,41,32,123,13,10,32,32,32,32,32,32,97,108,101,114,116,40,34,80,108,101,97,115,101,32,115,112,101,99,105,102,121,32,97,32,116,111,105,108,101,116,32,116,111,32,115,101,97,114,99,104,32,102,111,114,34,41,59,13,10,32,32,32,32,32,32,114,101,116,117,114,110,32,102,97,108,115,101,59,13,10,32,32,32,32,125,13,10,13,10,32,32,32,32,108,111,99,97,116,105,111,110,46,104,114,101,102,32,61,32,34,47,116,47,34,32,43,32,116,111,105,108,101,116,59,13,10,32,32,32,32,114,101,116,117,114,110,32,102,97,108,115,101,59,32,32,32,32,13,10,32,32,125,13,10,13,10,32,32,100,111,99,117,109,101,110,116,46,103,101,116,69,108,101,109,101,110,116,66,121,73,100,40,34,114,97,110,100,111,109,84,111,105,108,101,116,34,41,46,111,110,99,108,105,99,107,32,61,32,102,117,110,99,116,105,111,110,40,41,32,123,13,10,32,32,32,32,13,10,32,32,32,32,118,97,114,32,114,97,110,100,83,116,114,32,61,32,65,114,114,97,121,40,53,43,49,41,46,106,111,105,110,40,40,77,97,116,104,46,114,97,110,100,111,109,40,41,46,116,111,83,116,114,105,110,103,40,51,54,41,43,39,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48,48,39,41,46,115,108,105,99,101,40,50,44,32,49,56,41,41,46,115,108,105,99,101,40,48,44,32,53,41,59,13,10,32,32,32,32,118,97,114,32,116,105,109,101,115,116,114,32,61,32,77,97,116,104,46,114,111,117,110,100,40,40,110,101,119,32,68,97,116,101,40,41,41,46,103,101,116,84,105,109,101,40,41,32,47,32,49,48,48,48,41,59,13,10,32,32,32,32,118,97,114,32,102,105,110,97,108,32,61,32,114,97,110,100,83,116,114,32,43,32,34,45,34,32,43,32,116,105,109,101,115,116,114,13,10,13,10,32,32,32,32,108,111,99,97,116,105,111,110,46,104,114,101,102,32,61,32,34,47,116,47,34,32,43,32,102,105,110,97,108,59,13,10,32,32,125,13,10,60,47,115,99,114,105,112,116,62,13,10,13,10,32,32,32,32,32,32,32,32,60,47,100,105,118,62,13,10,32,32,32,32,60,47,100,105,118,62,13,10,60,47,100,105,118,62,13,10,13,10,13,10,32,32,32,32,32,32,32,32,60,47,100,105,118,62,13,10,32,32,32,32,60,47,100,105,118,62,13,10,60,47,98,111,100,121,62,13,10,60,47,104,116,109,108,62,13,10],"type":"Buffer"},"headers":{"connection":"close","content-length":"4602","content-type":"text/html; charset=utf-8","date":"Mon, 06 Dec 2021 18:38:06 GMT","server":"Google Frontend","vary":"Accept-Encoding","x-cloud-trace-context":"31fec8947c07bda292201f4234d4ed74"},"level":"debug","message":"proxy ersponse data","method":null,"statusCode":200,"trailers":{},"url":""}
+{"level":"info","message":"time passed - 288.2836 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"headers":{"host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"proxy request data","method":"GET","path":"/","port":80}
+{"headers":{"connection":"close","content-length":"4602","content-type":"text/html; charset=utf-8","date":"Mon, 06 Dec 2021 18:38:46 GMT","server":"Google Frontend","vary":"Accept-Encoding","x-cloud-trace-context":"5bff692c720e3ed51ff02aad7a7ebb15"},"level":"debug","message":"proxy ersponse data","method":null,"statusCode":200,"trailers":{},"url":""}
+{"level":"info","message":"time passed - 276.2659 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Start execute plugins before"}
+{"level":"verbose","message":"Executing plugin group "}
+{"level":"verbose","message":"Executing plugin group "}
+{"headers":{"host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"proxy request data","method":"GET","path":"/","port":80}
+{"headers":{"connection":"close","content-length":"4602","content-type":"text/html; charset=utf-8","date":"Mon, 06 Dec 2021 18:41:59 GMT","server":"Google Frontend","vary":"Accept-Encoding","x-cloud-trace-context":"aa33baa52fe488f8e093ec84148591f4"},"level":"debug","message":"proxy ersponse data","method":null,"statusCode":200,"trailers":{},"url":""}
+{"level":"info","message":"Start execute plugins after"}
+{"level":"verbose","message":"Executing plugin group "}
+{"level":"info","message":"time passed - 302.3027 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Start execute plugins before"}
+{"level":"verbose","message":"Executing plugin group Infinity"}
+{"level":"verbose","message":"Executing plugin group -Infinity"}
+{"headers":{"host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"proxy request data","method":"GET","path":"/","port":80}
+{"headers":{"connection":"close","content-length":"4602","content-type":"text/html; charset=utf-8","date":"Mon, 06 Dec 2021 18:42:15 GMT","server":"Google Frontend","vary":"Accept-Encoding","x-cloud-trace-context":"4e04782e744f08d582b0e5669dc2e9d8"},"level":"debug","message":"proxy ersponse data","method":null,"statusCode":200,"trailers":{},"url":""}
+{"level":"info","message":"Start execute plugins after"}
+{"level":"verbose","message":"Executing plugin group Infinity"}
+{"level":"info","message":"time passed - 810.7937 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Start execute plugins before"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin group '-Infinity'"}
+{"headers":{"host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"proxy request data","method":"GET","path":"/","port":80}
+{"headers":{"connection":"close","content-length":"4602","content-type":"text/html; charset=utf-8","date":"Mon, 06 Dec 2021 18:42:33 GMT","server":"Google Frontend","vary":"Accept-Encoding","x-cloud-trace-context":"79c5991cd7f622c7c9d3ce82e9eda3ba"},"level":"debug","message":"proxy ersponse data","method":null,"statusCode":200,"trailers":{},"url":""}
+{"level":"info","message":"Start execute plugins after"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"info","message":"time passed - 267.6326 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Start execute plugins before"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"level":"verbose","message":"Executing plugin group '-Infinity'"}
+{"level":"verbose","message":"Executing plugin 'proxy.js'"}
+{"headers":{"host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"proxy request data","method":"GET","path":"/","port":80}
+{"headers":{"connection":"close","content-length":"4602","content-type":"text/html; charset=utf-8","date":"Mon, 06 Dec 2021 18:43:11 GMT","server":"Google Frontend","vary":"Accept-Encoding","x-cloud-trace-context":"da63d336a0286749fef7f3b62b0d72d8"},"level":"debug","message":"proxy ersponse data","method":null,"statusCode":200,"trailers":{},"url":""}
+{"level":"info","message":"Start execute plugins after"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"level":"info","message":"time passed - 277.2743 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Start execute plugins before"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2 copy.js'"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"level":"info","message":"time passed - 7.4146 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Start execute plugins before"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"level":"verbose","message":"Executing plugin group '-Infinity'"}
+{"level":"verbose","message":"Executing plugin 'proxy.js'"}
+{"headers":{"host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"proxy request data","method":"GET","path":"/","port":80}
+{"headers":{"connection":"close","content-length":"4602","content-type":"text/html; charset=utf-8","date":"Mon, 06 Dec 2021 18:43:43 GMT","server":"Google Frontend","vary":"Accept-Encoding","x-cloud-trace-context":"bdd35a6110a6c7729b37a5ed5b3d6b31"},"level":"debug","message":"proxy ersponse data","method":null,"statusCode":200,"trailers":{},"url":""}
+{"level":"info","message":"Start execute plugins after"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"level":"info","message":"time passed - 268.286 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Start execute plugins before"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2 copy.js'"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"level":"warn","message":{"0":"errr","PriorityFail":"2","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2.js","priority":2}],"priority":"2"}]}}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"level":"info","message":"time passed - 6.2767 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Start execute plugins before"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2 copy.js'"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"0":"errr","PriorityFail":"2","level":"warn","message":"","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2.js","priority":2}],"priority":"2"}]}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"level":"info","message":"time passed - 7.555 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Start execute plugins before"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2 copy.js'"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"0":"errr","PriorityFail":"2","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2.js","priority":2}],"priority":"2"}]}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"level":"info","message":"time passed - 7.0994 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Start execute plugins before"}
+{"0":"errr","PriorityFail":"2","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2.js","priority":2}],"priority":"2"}]}
+{"level":"info","message":"time passed - 4.9909 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Start execute plugins before"}
+{"level":"info","message":"Start execute plugins after"}
+{"level":"info","message":"time passed - 358.3356 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Start execute plugins before"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"level":"verbose","message":"p3 - begin"}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2 copy.js'"}
+{"level":"verbose","message":"p2.2 - begin"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"level":"verbose","message":"p2 - begin"}
+{"level":"verbose","message":"Executing plugin group '1'"}
+{"level":"verbose","message":"Executing plugin 'p1.js'"}
+{"level":"verbose","message":"p1 - begin"}
+{"level":"verbose","message":"Executing plugin group '-Infinity'"}
+{"level":"verbose","message":"Executing plugin 'proxy.js'"}
+{"headers":{"host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"proxy request data","method":"GET","path":"/","port":80}
+{"headers":{"connection":"close","content-length":"4602","content-type":"text/html; charset=utf-8","date":"Mon, 06 Dec 2021 18:50:29 GMT","server":"Google Frontend","vary":"Accept-Encoding","x-cloud-trace-context":"c306aff49d48f365e496291755b27acb"},"level":"debug","message":"proxy ersponse data","method":null,"statusCode":200,"trailers":{},"url":""}
+{"level":"info","message":"Start execute plugins after"}
+{"level":"verbose","message":"Executing plugin group '1'"}
+{"level":"verbose","message":"Executing plugin 'p1.js'"}
+{"level":"verbose","message":"p1 - after"}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2 copy.js'"}
+{"level":"verbose","message":"p2.2 - after"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"level":"verbose","message":"p2 - after"}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"level":"verbose","message":"p3 - after"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"level":"info","message":"time passed - 282.7179 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Server starded"}
+{"level":"verbose","message":"Loading user plugins"}
+{"level":"verbose","message":"Loading system plugins"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Start execute plugins before"}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"warn","message":"A error occurred when executing plugin Invalid value \"undefined\" for header \"host\"","stack":"TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value \"undefined\" for header \"host\"\n    at ClientRequest.setHeader (_http_outgoing.js:564:3)\n    at new ClientRequest (_http_client.js:262:14)\n    at Object.request (http.js:94:10)\n    at C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:19:33\n    at new Promise (<anonymous>)\n    at makeProxyCall (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:8:12)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:52:44)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:38:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:105:19)"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Start execute plugins before"}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"warn","message":"A error occurred when executing plugin Invalid value \"undefined\" for header \"host\"","stack":"TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value \"undefined\" for header \"host\"\n    at ClientRequest.setHeader (_http_outgoing.js:564:3)\n    at new ClientRequest (_http_client.js:262:14)\n    at Object.request (http.js:94:10)\n    at C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:19:33\n    at new Promise (<anonymous>)\n    at makeProxyCall (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:8:12)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:52:44)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:38:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:105:19)"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Start execute plugins before"}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"warn","message":"A error occurred when executing plugin Invalid value \"undefined\" for header \"host\"","stack":"TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value \"undefined\" for header \"host\"\n    at ClientRequest.setHeader (_http_outgoing.js:564:3)\n    at new ClientRequest (_http_client.js:262:14)\n    at Object.request (http.js:94:10)\n    at C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:19:33\n    at new Promise (<anonymous>)\n    at makeProxyCall (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:8:12)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:52:44)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:38:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:105:19)"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Start execute plugins before"}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"warn","message":"A error occurred when executing plugin Invalid value \"undefined\" for header \"host\"","stack":"TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value \"undefined\" for header \"host\"\n    at ClientRequest.setHeader (_http_outgoing.js:564:3)\n    at new ClientRequest (_http_client.js:262:14)\n    at Object.request (http.js:94:10)\n    at C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:19:33\n    at new Promise (<anonymous>)\n    at makeProxyCall (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:8:12)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:52:44)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:38:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:105:19)"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Start execute plugins before"}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"warn","message":"A error occurred when executing plugin Invalid value \"undefined\" for header \"host\"","stack":"TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value \"undefined\" for header \"host\"\n    at ClientRequest.setHeader (_http_outgoing.js:564:3)\n    at new ClientRequest (_http_client.js:262:14)\n    at Object.request (http.js:94:10)\n    at C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:19:33\n    at new Promise (<anonymous>)\n    at makeProxyCall (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:8:12)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:52:44)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:38:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:105:19)"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Start execute plugins before"}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"warn","message":"A error occurred when executing plugin Invalid value \"undefined\" for header \"host\"","stack":"TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value \"undefined\" for header \"host\"\n    at ClientRequest.setHeader (_http_outgoing.js:564:3)\n    at new ClientRequest (_http_client.js:262:14)\n    at Object.request (http.js:94:10)\n    at C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:19:33\n    at new Promise (<anonymous>)\n    at makeProxyCall (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:8:12)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:52:44)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:38:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:105:19)"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Start execute plugins before"}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"warn","message":"A error occurred when executing plugin Invalid value \"undefined\" for header \"host\"","stack":"TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value \"undefined\" for header \"host\"\n    at ClientRequest.setHeader (_http_outgoing.js:564:3)\n    at new ClientRequest (_http_client.js:262:14)\n    at Object.request (http.js:94:10)\n    at C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:19:33\n    at new Promise (<anonymous>)\n    at makeProxyCall (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:8:12)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:52:44)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:38:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:105:19)"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Start execute plugins before"}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"warn","message":"A error occurred when executing plugin Invalid value \"undefined\" for header \"host\"","stack":"TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value \"undefined\" for header \"host\"\n    at ClientRequest.setHeader (_http_outgoing.js:564:3)\n    at new ClientRequest (_http_client.js:262:14)\n    at Object.request (http.js:94:10)\n    at C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:19:33\n    at new Promise (<anonymous>)\n    at makeProxyCall (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:8:12)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:52:44)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:38:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:105:19)"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Start execute plugins before"}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"warn","message":"A error occurred when executing plugin Invalid value \"undefined\" for header \"host\"","stack":"TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value \"undefined\" for header \"host\"\n    at ClientRequest.setHeader (_http_outgoing.js:564:3)\n    at new ClientRequest (_http_client.js:262:14)\n    at Object.request (http.js:94:10)\n    at C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:19:33\n    at new Promise (<anonymous>)\n    at makeProxyCall (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:8:12)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:52:44)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:38:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:105:19)"}
+{"level":"info","message":"Server starded"}
+{"level":"verbose","message":"Loading user plugins"}
+{"level":"verbose","message":"Loading system plugins"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Start execute plugins before"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"headers":{"connection":"Keep-Alive","host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":80}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"headers":{"connection":"Keep-Alive","host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":80}
+{"level":"verbose","message":"p3 - begin"}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2 copy.js'"}
+{"headers":{"connection":"Keep-Alive","host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":80}
+{"level":"verbose","message":"p2.2 - begin"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"headers":{"connection":"Keep-Alive","host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":80}
+{"level":"verbose","message":"p2 - begin"}
+{"level":"verbose","message":"Executing plugin group '1'"}
+{"level":"verbose","message":"Executing plugin 'p1.js'"}
+{"headers":{"connection":"Keep-Alive","host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":80}
+{"level":"verbose","message":"p1 - begin"}
+{"level":"verbose","message":"Executing plugin group '-Infinity'"}
+{"level":"verbose","message":"Executing plugin 'proxy.js'"}
+{"headers":{"connection":"Keep-Alive","host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":80}
+{"headers":{"connection":"Keep-Alive","host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"proxy request data","method":"GET","path":"/","port":80}
+{"headers":{"content-length":"4602","content-type":"text/html; charset=utf-8","date":"Mon, 06 Dec 2021 19:06:54 GMT","server":"Google Frontend","vary":"Accept-Encoding","x-cloud-trace-context":"a4d33887e9f0b13c09f6a5322b1c27cf"},"level":"debug","message":"proxy ersponse data","method":null,"statusCode":200,"trailers":{},"url":""}
+{"level":"info","message":"Start execute plugins after"}
+{"level":"verbose","message":"Executing plugin group '1'"}
+{"level":"verbose","message":"Executing plugin 'p1.js'"}
+{"headers":{"connection":"Keep-Alive","host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":80}
+{"level":"verbose","message":"p1 - after"}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2 copy.js'"}
+{"headers":{"connection":"Keep-Alive","host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":80}
+{"level":"verbose","message":"p2.2 - after"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"headers":{"connection":"Keep-Alive","host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":80}
+{"level":"verbose","message":"p2 - after"}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"headers":{"connection":"Keep-Alive","host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":80}
+{"level":"verbose","message":"p3 - after"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"headers":{"connection":"Keep-Alive","host":"ptsv2.com","user-agent":"Mozilla/5.0 (Windows NT; Windows NT 10.0; pt-BR) WindowsPowerShell/5.1.19041.1320"},"hostname":"ptsv2.com","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":80}
+{"level":"info","message":"time passed - 286.5088 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Start execute plugins before"}
+{"level":"info","message":"Start execute plugins after"}
+{"level":"info","message":"time passed - 278.4689 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 264.9824 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"warn","message":"A error occurred when executing plugin Invalid value \"undefined\" for header \"host\"","stack":"TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value \"undefined\" for header \"host\"\n    at ClientRequest.setHeader (_http_outgoing.js:564:3)\n    at new ClientRequest (_http_client.js:262:14)\n    at Object.request (http.js:94:10)\n    at C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:19:33\n    at new Promise (<anonymous>)\n    at makeProxyCall (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:8:12)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:52:44)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:39:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:106:19)"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"warn","message":"A error occurred when executing plugin Invalid value \"undefined\" for header \"host\"","stack":"TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value \"undefined\" for header \"host\"\n    at ClientRequest.setHeader (_http_outgoing.js:564:3)\n    at new ClientRequest (_http_client.js:262:14)\n    at Object.request (http.js:94:10)\n    at C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:19:33\n    at new Promise (<anonymous>)\n    at makeProxyCall (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:8:12)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:52:44)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:39:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:106:19)"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"warn","message":"A error occurred when executing plugin Invalid value \"undefined\" for header \"host\"","stack":"TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value \"undefined\" for header \"host\"\n    at ClientRequest.setHeader (_http_outgoing.js:564:3)\n    at new ClientRequest (_http_client.js:262:14)\n    at Object.request (http.js:94:10)\n    at C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:19:33\n    at new Promise (<anonymous>)\n    at makeProxyCall (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:8:12)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:52:44)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:39:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:106:19)"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"warn","message":"A error occurred when executing plugin Invalid value \"undefined\" for header \"host\"","stack":"TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value \"undefined\" for header \"host\"\n    at ClientRequest.setHeader (_http_outgoing.js:564:3)\n    at new ClientRequest (_http_client.js:262:14)\n    at Object.request (http.js:94:10)\n    at C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:19:33\n    at new Promise (<anonymous>)\n    at makeProxyCall (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:8:12)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:52:44)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:39:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:106:19)"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"warn","message":"A error occurred when executing plugin Invalid value \"undefined\" for header \"host\"","stack":"TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value \"undefined\" for header \"host\"\n    at ClientRequest.setHeader (_http_outgoing.js:564:3)\n    at new ClientRequest (_http_client.js:262:14)\n    at Object.request (http.js:94:10)\n    at C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:19:33\n    at new Promise (<anonymous>)\n    at makeProxyCall (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:8:12)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:52:44)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:39:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:106:19)"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"warn","message":"A error occurred when executing plugin Invalid value \"undefined\" for header \"host\"","stack":"TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value \"undefined\" for header \"host\"\n    at ClientRequest.setHeader (_http_outgoing.js:564:3)\n    at new ClientRequest (_http_client.js:262:14)\n    at Object.request (http.js:94:10)\n    at C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:19:33\n    at new Promise (<anonymous>)\n    at makeProxyCall (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:8:12)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:52:44)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:39:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:106:19)"}
+{"level":"info","message":"Server starded"}
+{"level":"verbose","message":"Loading user plugins"}
+{"level":"verbose","message":"Loading system plugins"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"verbose","message":"Start execute plugins before"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close"},"level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":80}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close"},"level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":80}
+{"level":"verbose","message":"p3 - begin"}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2 copy.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close"},"level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":80}
+{"level":"verbose","message":"p2.2 - begin"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close"},"level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":80}
+{"level":"verbose","message":"p2 - begin"}
+{"level":"verbose","message":"Executing plugin group '1'"}
+{"level":"verbose","message":"Executing plugin 'p1.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close"},"level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":80}
+{"level":"verbose","message":"p1 - begin"}
+{"level":"verbose","message":"Executing plugin group '-Infinity'"}
+{"level":"verbose","message":"Executing plugin 'proxy.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close"},"level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":80}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close"},"level":"debug","message":"proxy request data","method":"GET","path":"/","port":80}
+{"code":"ERR_HTTP_INVALID_HEADER_VALUE","level":"warn","message":"A error occurred when executing plugin Invalid value \"undefined\" for header \"host\"","stack":"TypeError [ERR_HTTP_INVALID_HEADER_VALUE]: Invalid value \"undefined\" for header \"host\"\n    at ClientRequest.setHeader (_http_outgoing.js:564:3)\n    at new ClientRequest (_http_client.js:262:14)\n    at Object.request (http.js:94:10)\n    at C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:19:33\n    at new Promise (<anonymous>)\n    at makeProxyCall (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:8:12)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\proxy.js:52:44)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:39:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:106:19)"}
+{"level":"info","message":"Server starded"}
+{"level":"verbose","message":"Loading user plugins"}
+{"level":"verbose","message":"Loading system plugins"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"verbose","message":"Start execute plugins before"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":64224}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":64224}
+{"level":"verbose","message":"p3 - begin"}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2 copy.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":64224}
+{"level":"verbose","message":"p2.2 - begin"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":64224}
+{"level":"verbose","message":"p2 - begin"}
+{"level":"verbose","message":"Executing plugin group '1'"}
+{"level":"verbose","message":"Executing plugin 'p1.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":64224}
+{"level":"verbose","message":"p1 - begin"}
+{"level":"verbose","message":"Executing plugin group '-Infinity'"}
+{"level":"verbose","message":"Executing plugin 'proxy.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":64224}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"proxy request data","method":"GET","path":"/","port":64224}
+{"headers":{"connection":"close","content-length":"12","content-type":"text/html; charset=utf-8","date":"Mon, 06 Dec 2021 19:19:31 GMT","etag":"W/\"c-Lve95gjOVATpfV8EL5X4nxwjKHE\"","x-powered-by":"Express"},"level":"debug","message":"proxy ersponse data","method":null,"statusCode":200,"trailers":{},"url":""}
+{"level":"verbose","message":"Start execute plugins after"}
+{"level":"verbose","message":"Executing plugin group '1'"}
+{"level":"verbose","message":"Executing plugin 'p1.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":64224}
+{"level":"verbose","message":"p1 - after"}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2 copy.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":64224}
+{"level":"verbose","message":"p2.2 - after"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":64224}
+{"level":"verbose","message":"p2 - after"}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":64224}
+{"level":"verbose","message":"p3 - after"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":64224}
+{"level":"info","message":"time passed - 30.6722 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 12.6468 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 14.3329 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 3.117 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 14.3326 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 3.0771 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"0":{},"PriorityFail":"1","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[]}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 13.0463 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 2.9412 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 12.9819 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 2.9914 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 12.8654 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 4.5917 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 13.2859 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 3.3185 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 8.8315 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 4.567 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"verbose","message":"Loading user plugins"}
+{"level":"verbose","message":"Loading system plugins"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"verbose","message":"Start execute plugins before"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":49641}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":49641}
+{"level":"verbose","message":"p3 - begin"}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2 copy.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":49641}
+{"level":"verbose","message":"p2.2 - begin"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":49641}
+{"level":"verbose","message":"p2 - begin"}
+{"level":"verbose","message":"Executing plugin group '1'"}
+{"level":"verbose","message":"Executing plugin 'p1.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":49641}
+{"level":"verbose","message":"p1 - begin"}
+{"level":"verbose","message":"Executing plugin group '-Infinity'"}
+{"level":"verbose","message":"Executing plugin 'proxy.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":49641}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"proxy request data","method":"GET","path":"/","port":49641}
+{"headers":{"connection":"close","content-length":"12","content-type":"text/html; charset=utf-8","date":"Mon, 06 Dec 2021 19:35:55 GMT","etag":"W/\"c-Lve95gjOVATpfV8EL5X4nxwjKHE\"","x-powered-by":"Express"},"level":"debug","message":"proxy ersponse data","method":null,"statusCode":200,"trailers":{},"url":""}
+{"level":"verbose","message":"Start execute plugins after"}
+{"level":"verbose","message":"Executing plugin group '1'"}
+{"level":"verbose","message":"Executing plugin 'p1.js'"}
+{"data":{"data":[],"type":"Buffer"},"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"level":"debug","message":"Executing plugin data","method":"GET","trailers":{},"url":"/"}
+{"level":"verbose","message":"p1 - after"}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2 copy.js'"}
+{"data":{"data":[],"type":"Buffer"},"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"level":"debug","message":"Executing plugin data","method":"GET","trailers":{},"url":"/"}
+{"level":"verbose","message":"p2.2 - after"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"data":{"data":[],"type":"Buffer"},"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"level":"debug","message":"Executing plugin data","method":"GET","trailers":{},"url":"/"}
+{"level":"verbose","message":"p2 - after"}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"data":{"data":[],"type":"Buffer"},"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"level":"debug","message":"Executing plugin data","method":"GET","trailers":{},"url":"/"}
+{"level":"verbose","message":"p3 - after"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"data":{"data":[],"type":"Buffer"},"headers":{"accept-encoding":"gzip, deflate","connection":"close","host":"127.0.0.1"},"level":"debug","message":"Executing plugin data","method":"GET","trailers":{},"url":"/"}
+{"level":"info","message":"time passed - 27.9258 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"verbose","message":"Loading user plugins"}
+{"level":"verbose","message":"Loading system plugins"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"verbose","message":"Start execute plugins before"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","content-length":"0","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"POST","path":"/json","port":49641}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","content-length":"0","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"POST","path":"/json","port":49641}
+{"level":"verbose","message":"p3 - begin"}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2 copy.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","content-length":"0","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"POST","path":"/json","port":49641}
+{"level":"verbose","message":"p2.2 - begin"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","content-length":"0","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"POST","path":"/json","port":49641}
+{"level":"verbose","message":"p2 - begin"}
+{"level":"verbose","message":"Executing plugin group '1'"}
+{"level":"verbose","message":"Executing plugin 'p1.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","content-length":"0","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"POST","path":"/json","port":49641}
+{"level":"verbose","message":"p1 - begin"}
+{"level":"verbose","message":"Executing plugin group '-Infinity'"}
+{"level":"verbose","message":"Executing plugin 'proxy.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","content-length":"0","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"POST","path":"/json","port":49641}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","content-length":"0","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"proxy request data","method":"POST","path":"/json","port":49641}
+{"headers":{"connection":"close","content-length":"42","content-type":"application/json; charset=utf-8","date":"Mon, 06 Dec 2021 19:35:55 GMT","etag":"W/\"2a-cznPTDaPjZJkgBYjztgZKNNNrDo\"","x-powered-by":"Express"},"level":"debug","message":"proxy ersponse data","method":null,"statusCode":200,"trailers":{},"url":""}
+{"level":"verbose","message":"Start execute plugins after"}
+{"level":"verbose","message":"Executing plugin group '1'"}
+{"level":"verbose","message":"Executing plugin 'p1.js'"}
+{"data":{"data":[],"type":"Buffer"},"headers":{"accept-encoding":"gzip, deflate","connection":"close","content-length":"0","host":"127.0.0.1"},"level":"debug","message":"Executing plugin data","method":"POST","trailers":{},"url":"/json"}
+{"level":"verbose","message":"p1 - after"}
+{"level":"verbose","message":"Executing plugin group '2'"}
+{"level":"verbose","message":"Executing plugin 'p2 copy.js'"}
+{"data":{"data":[],"type":"Buffer"},"headers":{"accept-encoding":"gzip, deflate","connection":"close","content-length":"0","host":"127.0.0.1"},"level":"debug","message":"Executing plugin data","method":"POST","trailers":{},"url":"/json"}
+{"level":"verbose","message":"p2.2 - after"}
+{"level":"verbose","message":"Executing plugin 'p2.js'"}
+{"data":{"data":[],"type":"Buffer"},"headers":{"accept-encoding":"gzip, deflate","connection":"close","content-length":"0","host":"127.0.0.1"},"level":"debug","message":"Executing plugin data","method":"POST","trailers":{},"url":"/json"}
+{"level":"verbose","message":"p2 - after"}
+{"level":"verbose","message":"Executing plugin group '3'"}
+{"level":"verbose","message":"Executing plugin 'p3.js'"}
+{"data":{"data":[],"type":"Buffer"},"headers":{"accept-encoding":"gzip, deflate","connection":"close","content-length":"0","host":"127.0.0.1"},"level":"debug","message":"Executing plugin data","method":"POST","trailers":{},"url":"/json"}
+{"level":"verbose","message":"p3 - after"}
+{"level":"verbose","message":"Executing plugin group 'Infinity'"}
+{"level":"verbose","message":"Executing plugin 'timer.js'"}
+{"data":{"data":[],"type":"Buffer"},"headers":{"accept-encoding":"gzip, deflate","connection":"close","content-length":"0","host":"127.0.0.1"},"level":"debug","message":"Executing plugin data","method":"POST","trailers":{},"url":"/json"}
+{"level":"info","message":"time passed - 18.0434 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"verbose","message":"Loading user plugins"}
+{"level":"verbose","message":"Loading system plugins"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"verbose","message":"Start execute plugins before"}
+{"level":"verbose","message":"Executing plugin group '1'"}
+{"level":"verbose","message":"Executing plugin 'undefined'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","content-length":"0","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"POST","path":"/","port":49641}
+{"level":"verbose","message":"Executing plugin group '-Infinity'"}
+{"level":"verbose","message":"Executing plugin 'proxy.js'"}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","content-length":"0","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"Executing plugin data","method":"GET","path":"/","port":49641}
+{"headers":{"accept-encoding":"gzip, deflate","connection":"close","content-length":"0","host":"127.0.0.1"},"hostname":"127.0.0.1","level":"debug","message":"proxy request data","method":"GET","path":"/","port":49641}
+{"headers":{"connection":"close","content-length":"12","content-type":"text/html; charset=utf-8","date":"Mon, 06 Dec 2021 19:35:55 GMT","etag":"W/\"c-Lve95gjOVATpfV8EL5X4nxwjKHE\"","x-powered-by":"Express"},"level":"debug","message":"proxy ersponse data","method":null,"statusCode":200,"trailers":{},"url":""}
+{"level":"verbose","message":"Start execute plugins after"}
+{"level":"verbose","message":"Executing plugin group '1'"}
+{"level":"verbose","message":"Executing plugin 'undefined'"}
+{"data":{"data":[],"type":"Buffer"},"headers":{"accept-encoding":"gzip, deflate","connection":"close","content-length":"0","host":"127.0.0.1"},"level":"debug","message":"Executing plugin data","method":"POST","trailers":{},"url":"/"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 9.3831 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 3.6784 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 12.0942 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 2.9887 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 13.3488 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 2.9608 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 15.6224 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 3.1873 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 13.5249 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 3.2678 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 13.4441 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 2.9865 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 13.3834 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 2.9953 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 9.9127 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 4.502 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 13.3798 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 3.1448 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 13.7323 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 2.9981 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 13.2529 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 3.3743 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 13.7389 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 3.3331 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 13.5477 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 3.118 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 13.3923 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 3.4289 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 12.6418 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 3.1169 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 12.6623 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 3.0888 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"0":{},"PriorityFail":"1","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"priority":2}],"priority":"2"}]}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 8.7771 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 3.2128 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 12.5681 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"time passed - 3.2793 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"0":"err","PriorityFail":"1","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[]}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 275.9932 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 1282.5511000000001 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":"Err","PriorityFail":"1","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"}]}
+{"level":"info","message":"time passed - 17.6106 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 831.3094 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":"Err","PriorityFail":"1","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[]}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"0":"Err","PriorityFail":"1","level":"warn","message":"A Fatal Error occurred when executing plugin","returnsFunctions":[]}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"0":"Err","PriorityFail":"1","level":"warn","message":"A Fatal Error occurred when executing plugin","returnsFunctions":[]}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"0":"Err","PriorityFail":"1","level":"warn","message":"A Fatal Error occurred when executing plugin","returnsFunctions":[]}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"0":"Err","PriorityFail":"1","level":"warn","message":"A Fatal Error occurred when executing plugin","returnsFunctions":[]}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"0":{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"},"1":{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},"2":{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},"3":{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},"level":"warn","message":"A Fatal Error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"0":{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"},"1":{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},"2":{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},"3":{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},"level":"warn","message":"A Fatal Error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"0":"Err","PriorityFail":"2","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[]}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"0":{"plugins":[{"priority":1}],"priority":"1"},"1":{"plugins":[{"priority":2}],"priority":"2"},"level":"warn","message":"A Fatal Error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"0":{"plugins":[{"priority":1}],"priority":"1"},"1":{"plugins":[{"priority":2}],"priority":"2"},"level":"warn","message":"A Fatal Error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/multipleServer.js"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/router.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"},"1":{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},"2":{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},"3":{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},"level":"warn","message":"A Fatal Error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/router.js"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/router.js"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/router.js"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/router.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"},"1":{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},"2":{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},"3":{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},"level":"warn","message":"A Fatal Error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/router.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"},"1":{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},"2":{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},"3":{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},"level":"warn","message":"A Fatal Error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/router.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 307.0044 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 278.433 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/router.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 298.2926 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/router.js"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/router.js"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./plugins/p1.js"}
+{"level":"warn","message":"Fail to load - ./plugins/p2 copy.js"}
+{"level":"warn","message":"Fail to load - ./plugins/p2.js"}
+{"level":"warn","message":"Fail to load - ./plugins/p3.js"}
+{"level":"warn","message":"Fail to load - ./plugins/timer.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/proxy.js"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/router.js"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 293.9697 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 11648.3978 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 491.8424 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 500.1687 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 286.5526 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 393.6176 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 486.5173 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 410.9792 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 164.6536 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList_old.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 6047.5659 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList_old.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList_old.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 13656.3007 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList_old.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":"Blocked","PriorityFail":"-1000000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 22.6589 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList_old.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":"Blocked","PriorityFail":"-1000000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 1661.4290999999998 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList_old.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":"Blocked","PriorityFail":"-1000000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 23.5768 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":"Blocked","PriorityFail":"-1000000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 19.8979 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList_old.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 484.3229 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/blockList_old.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":"Blocked","PriorityFail":"-1000000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 21.9652 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::ffff:127.0.0.1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 725.5618 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 446.5089 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"code":"ENOENT","errno":-4058,"level":"warn","message":"A error occurred when executing plugin ENOENT: no such file or directory, open 'C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\forbidden.html'","path":"C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\forbidden.html","stack":"Error: ENOENT: no such file or directory, open 'C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\forbidden.html'","syscall":"open"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":{},"PriorityFail":"-100000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 5.9083 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":{},"PriorityFail":"-100000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 2.2731 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":{},"PriorityFail":"-100000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 7.3379 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":{},"PriorityFail":"-100000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 9.3036 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":{},"PriorityFail":"-100000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 5.4422 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":{},"PriorityFail":"-100000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 4.9556 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":{},"PriorityFail":"-100000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 2.4226 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":{},"PriorityFail":"-100000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 6.5762 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":{},"PriorityFail":"-100000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 4.7466 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":{},"PriorityFail":"-100000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 2.8543 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":{},"PriorityFail":"-100000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 1.9838 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":{},"PriorityFail":"-100000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 3.1273 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":{},"PriorityFail":"-100000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 3.0329 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/auth.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/auth.js"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"warn","message":"Fail to load - ./systemPlugins/auth.js"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin fs is not defined","stack":"ReferenceError: fs is not defined\n    at failAuth (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\auth.js:12:26)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\auth.js:25:70)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:39:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:106:15)\n    at async IncomingMessage.<anonymous> (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:271:11)"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin remoteAddr is not defined","stack":"ReferenceError: remoteAddr is not defined\n    at failAuth (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\auth.js:18:37)\n    at async Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\auth.js:26:64)"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin remoteAddr is not defined","stack":"ReferenceError: remoteAddr is not defined\n    at failAuth (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\auth.js:18:37)\n    at async Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\auth.js:26:64)"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin remoteAddr is not defined","stack":"ReferenceError: remoteAddr is not defined\n    at failAuth (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\auth.js:18:37)\n    at async Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\auth.js:26:64)"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin remoteAddr is not defined","stack":"ReferenceError: remoteAddr is not defined\n    at failAuth (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\auth.js:18:37)\n    at async Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\auth.js:26:64)"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin remoteAddr is not defined","stack":"ReferenceError: remoteAddr is not defined\n    at failAuth (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\auth.js:15:37)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\auth.js:23:64)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:39:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:106:15)\n    at async IncomingMessage.<anonymous> (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:271:11)"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin remoteAddr is not defined","stack":"ReferenceError: remoteAddr is not defined\n    at failAuth (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\auth.js:15:37)\n    at Object.plugin (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\systemPlugins\\auth.js:23:64)\n    at processPlguins (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:39:26)\n    at processTicksAndRejections (internal/process/task_queues.js:95:5)\n    at async processRequest (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:106:15)\n    at async IncomingMessage.<anonymous> (C:\\Users\\victo\\OneDrive\\Documentos\\nodejs\\question3_proxy\\proxy.js:271:11)"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 282.6426 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 799.4489 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 806.8325 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 1.4994 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"warn","message":"A error occurred when executing plugin"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 474.9686 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 831.9372 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":"Fail to auth","PriorityFail":"-100000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 5.0689 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 835.4701 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 264.0541 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 824.3052 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 258.8906 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 814.3215 ms"}
+{"level":"info","message":"Server starded"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":"Fail to auth","PriorityFail":"-100000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 5.4567 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":"Fail to auth","PriorityFail":"-100000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 2.1604 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"0":"Fail to auth","PriorityFail":"-100000","level":"warn","message":"A error occurred when executing plugin","returnsFunctions":[{"plugins":[{"file":"timer.js","priority":null}],"priority":"Infinity"},{"plugins":[{"file":"p3.js","priority":3}],"priority":"3"},{"plugins":[{"file":"p2 copy.js","priority":2},{"file":"p2.js","priority":2}],"priority":"2"},{"plugins":[{"file":"p1.js","priority":1}],"priority":"1"}]}
+{"level":"info","message":"time passed - 2.7761 ms"}
+{"level":"info","message":"Request recived from : ::1"}
+{"level":"info","message":"time passed - 795.1133 ms"}

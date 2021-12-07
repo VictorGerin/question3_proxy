@@ -3,20 +3,18 @@ const fs = require('fs')
 function verifyValidModule(module) {
   //All module must have priority
   if (!module.priority && module.priority !== 0) return null
-
   //is syncronous module
-  if (module.priority) {
-    if (!module.before && !module.after) return null
-
-    if (!module.before)
-      module.before = (next) => {
-        next()
-      }
-    if (!module.after)
-      module.after = (next) => {
-        next()
-      }
-  }
+  // if (module.priority) {
+  //   if (!module.before && !module.after) return null
+  //   if (!module.before)
+  //     module.before = (next) => {
+  //       next()
+  //     }
+  //   if (!module.after)
+  //     module.after = (next) => {
+  //       next()
+  //     }
+  // }
   //is a asyncrous module
   else {
     if (!module.plugin) return null
@@ -30,19 +28,28 @@ function verifyValidModule(module) {
  * @param {String} folder folder to search the plugins
  * @returns {Promise} A array contains all plugins objects
  */
-module.exports = function getAllPlugins(folder) {
+module.exports = function getAllPlugins(folder, logger) {
+  if (!fs.existsSync(folder)) return []
+
   return (
     fs
       .readdirSync(folder)
       .filter((a) => !a.endsWith('test.js'))
-      .map((a) => `${folder}/${a}`)
+      .filter((a) => !a.endsWith('ignore.js'))
       .map((file) => {
+        let relativePathFile = `${folder}/${file}`
         try {
-          let module = verifyValidModule(require(file))
-          if (!module) console.error('Fail to load - ' + file)
-          return module
+          let module = verifyValidModule(require(relativePathFile))
+          if (!module) {
+            logger.warn('Fail to load - ' + relativePathFile)
+            return null
+          }
+          return {
+            file,
+            ...module,
+          }
         } catch (e) {
-          console.error('Fail to load - ' + file)
+          logger.warn('Fail to load - ' + relativePathFile)
           //all modules fail to load is ignored
           return null
         }

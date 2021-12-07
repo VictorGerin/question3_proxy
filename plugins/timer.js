@@ -1,17 +1,14 @@
-let start
+module.exports = {
+  priority: Infinity,
 
-//high priority ensure this module be the first on before and last on after
-exports.priority = Infinity
+  plugin: (request, context, logger) => {
+    let start = process.hrtime()
 
-exports.before = (next, fail) => {
-  start = process.hrtime()
-  next()
-}
+    return () => {
+      let time = process.hrtime(start)
+      let elapsed = time[0] * 1000 + time[1] / 1000000
 
-exports.after = (next) => {
-  let time = process.hrtime(start)
-  let elapsed = time[0] * 1000 + time[1] / 1000000
-
-  console.log(`time passed - ${elapsed} ms`)
-  next()
+      logger.info(`time passed - ${elapsed} ms`)
+    }
+  },
 }

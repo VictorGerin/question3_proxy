@@ -5,7 +5,6 @@
   "author": "Victor Lacerda",
   "license": "MIT",
   "devDependencies": {
-    "cross-env": "^7.0.3",
     "express": "^4.17.1",
     "husky": "^7.0.4",
     "jest": "^27.4.3",
@@ -17,5 +16,9 @@
     "test": "jest",
     "start": "node index.js",
     "prepare": "husky install"
+  },
+  "dependencies": {
+    "commander": "^8.3.0",
+    "winston": "^3.3.3"
   }
 }
